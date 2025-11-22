@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Manpreet
 
-<!--
-**manpreetk27/manpreetk27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a CS (Data Science) student who can’t stop turning data into dashboards… and sometimes Tarot readings.  
 
-Here are some ideas to get you started:
+I like making interactive things in **Python & Java**, visualizing patterns in messy datasets, and figuring out ways code can make life a little more fun.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently Exploring
+- Building small projects and games that actually do something cool  
+- Visualizing data in ways that tell a story (Plotly & Streamlit are my playgrounds)  
+- Learning the ropes of **machine learning** and real-world applications  
+
+---
+
+### 💡 Interests
+- Making data understandable and beautiful 📊  
+- Games, simulations, and “what-if” coding experiments 🎮  
+- AI, analytics, and exploring how tech can improve everyday things 🤖  
+
+---
+
+### 📫 Connect / Follow
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manpreetk267)  
+ 
+---
+
